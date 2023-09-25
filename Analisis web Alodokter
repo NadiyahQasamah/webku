@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alodokter Manfaat Toner</title>
+</head>
+<body>
+    <header> 
+        <div>
+        <nav class=" topNavbar" minlength="3">
+            <img src=" https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto,q_auto/v1634020083/aloweb_assets/logo-header.png" 
+            height="25" width="200">
+            <input id = "searchinput" type="text" minlength="3" value placeholder="Search">
+        </nav>
+        </div>
+        <nav class="SecondNavigation">
+        <ul>
+            <li>Info Kesehatan </li>
+            <li>Cari Dokter</li>
+            <li>Tanya Dokter</li>
+            <li>Aloproteksi</li>
+            <li>Alodokter Shop</li>
+        </ul>
+        </nav>
+          </header>
+   <header>
+        <nav class = "SubNav">
+            <ul>
+                <li>Diabetes</li> 
+                <li>jantung</li>
+                <li>Kesehatan Mulut</li>
+                <li>Kolestrol Tinggi</li>
+                <li>Diet</li>
+                <li>Kecantikan</li>
+                <li>Kulit</li>
+                <li>Kehamilan</li>
+                <li>Bayi</li>
+                <li>Mata</li>
+                <li>Skin Barrier</li>
+            </ul> 
+        </nav>
+         </header>
+    <header>
+        <div class = "container">
+            <h1>Fungsi dan Cara Menggunakan Toner Wajah</h1>
+            <p> Toner dikenal sebagai produk perawatan kulit yang fungsinya untuk mengangkat sisa kotoran dari wajah. Namun, toner atau water refiner ternyata tidak hanya untuk membersihkan kulit, tapi juga memiliki beragam fungsi lain bagi kesehatan kulit.</p>
+            <p>Membersihkan kulit wajah dengan sabun wajah saja tidak cukup. Agar semua kotoran dan minyak di kulit wajah terangkat sempurna, diperlukan rangkaian perawatan kulit yang salah satunya adalah toner.</p>
+            <img src = "https://res.cloudinary.com/dk0z4ums3/image/upload/v1643333411/attached_image/fungsi-dan-cara-menggunakan-toner-wajah-0-alodokter.jpg" width="650" height="433">
+            <p> Toner merupakan produk perawatan kulit yang digunakan pada wajah menggunakan kapas. Teksturnya encer, berbahan lembut, dan tidak iritatif, sehingga cukup aman digunakan untuk membersihkan wajah.</p>
+            <h3> Beragam Fungsi Toner untuk Wajah </h3>
+            <p>Toner memiliki beragam fungsi, tergantung pada kandungan dan komposisinya. Beberapa fungsi toner untuk kesehatan dan kecantikan kulit wajah adalah:</p>
+            <ul>1. Mengangkat sisa kotoran</ul>
+            <ul>2. Melembapkan kulit</ul>
+            <ul>3. Mengatasi jerawat</ul>
+            <ul>4. Mengilangkan bekas jerawat</ul>
+            <ul>5. Menghilangkan minyak di kulit</ul>
+            <ul>6. Menyeimbangkan pH kulit</ul>
+            <h3> Cara Menggunakan Toner untuk Wajah</h3>
+            <p> Rangkaian perawatan wajah dimulai dari membersihkan kulit wajah, baik dengan susu pembersih atau sabun wajah. Selanjutnya, tuangkan toner pada kapas dan usapkan ke permukaan wajah. Hindari area sekitar mata saat menggunakan toner, lalu tunggu sampai kering. Setelah itu, Anda dapat menggunakan pelembap wajah dan tabir surya.
+                Gunakan toner agar kulit senantiasa bersih, sehat, dan terhidrasi dengan baik. Kulit yang sehat membuat penyerapan pelembap atau serum wajah menjadi lebih optimal.
+                Dalam memilih toner yang bagus, sebaiknya hindari produk toner yang mengandung alkohol karena dapat membuat kulit kering, terutama bagi pemilik kulit sensitif.
+                Masing-masing orang memiliki kecocokan dengan jenis toner yang berbeda-beda. Hal ini tergantung pada jenis kulit dan aktivitas yang dijalani sehari-hari. Jika merasa bingung atau ragu dalam memilih toner yang cocok, Anda dapat berkonsultasi ke dokter kulit.</p>
+            </div>
+            </header>
+    <footer> 
+        <div class = "container">
+            <div class = "topics">
+                <h3>Chat Lebih dari 1000 dokter di Aplikasi Alodokter </h3>
+                <h3> Respons Cepat, Jawaban Akurat!</h3>
+                <img src = "https://www.alodokter.com/packs/images/new-home/phone-c35544e47bc0de0353c812ef38851a7f.png" width="150" height="150">
+            </div>
+        <div class = "footers notes">
+            <h3> Alodokter </h3>
+            <ul>Tentang Kami</ul>
+            <ul>Karier</ul>
+            <ul>Hubungi Kami</ul>
+            <ul>Tim Editorial</ul>
+            <ul>Aloproteksi</ul>
+            <ul>Aloproteksi Coporate</ul>
+        </div>
+        </div>
+    </footer>
+</body>
+</html>
